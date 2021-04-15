@@ -26,6 +26,6 @@ for (var i=1 ; i <= rating ;i++)
   
 }
 
-document.write('<h1> you rating me </h1>'+ (i-1)  );
+document.write('<h1> you rating me </h1>'+ (i-1) + 'stars'  );
 }
 
