@@ -7,12 +7,14 @@ if (rating == 0)
 {
   var image0='<img src="https://1.bp.blogspot.com/-E_KbYjMYNgo/XX1bMatyPEI/AAAAAAAAWrU/wG64Iblu8lE4rJBlPZRJM9JbJDeqkiSRgCLcBGAsYHQ/s1600/shocked-emoji-smiley.png" alt= "star"/>';
 document.write(image0);
-document.write('<h1> Go to the Bottom to see the number of rat 🤩 </h1> '  );
+
+ document.write('<h1> Rerating me correctly 😅 </h1> '  );
 
 
 }
 else {
-document.write('<h1> erating me correctly 😅 </h1> '  );
+  document.write('<h1> Go to the Bottom to see the number of rat 🤩 </h1> ' 
+ );
 
 for (var i=1 ; i <= rating ;i++)
 {
